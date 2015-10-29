@@ -18,6 +18,8 @@
     "bcryptjs": "*",
     "knex": "*",
     "express-session": "*",
-    "jshint": "*"
+    "jshint": "*",
+    "socket.io":"*",
+    "socket.io-client":"*"
   }
 }
