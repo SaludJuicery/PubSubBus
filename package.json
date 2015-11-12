@@ -20,6 +20,7 @@
     "express-session": "*",
     "jshint": "*",
     "socket.io":"*",
-    "socket.io-client":"*"
+    "socket.io-client":"*",
+    "socket.io-emitter":"*"
   }
 }

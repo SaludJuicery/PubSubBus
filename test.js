@@ -1,4 +1,4 @@
-  var socket = require('socket.io-client')('http://localhost:5656');
+  var socket = require('socket.io-client')('http://localhost:5656/sewickley');
   socket.on('connect', function(){
   	socket.emit("hello","client: connection succesful");
   });
